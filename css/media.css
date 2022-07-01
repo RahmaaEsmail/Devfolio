@@ -1,0 +1,21 @@
+ @media  screen and (min-width:500px) and (max-width:524px) {
+    .header-text  h1{
+        font-size: 40px !important;
+        font-weight: 600;
+    }
+    .header-text  h4{
+        font-size: 20px;
+        /* font-weight: bold; */
+    }
+    @media screen and (min-width:525px) and (max-width:1100px) {
+        .header-text  h1{
+            font-size: 45px !important;
+            font-weight: 400;
+        }
+        .header-text  h4{
+            font-size: 20px;
+            /* font-weight: bold; */
+        }
+    }
+
+ }
